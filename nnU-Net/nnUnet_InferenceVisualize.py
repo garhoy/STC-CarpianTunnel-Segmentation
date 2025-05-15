@@ -21,7 +21,7 @@ Output:
 # === Paths ===
 IMG_DIR        = "nnUnetDataFormat/nnUNet_raw_data_base/nnUNet_raw_data/Task000_STC/imagesTs"
 GT_MASK_DIR    = "nnUnetDataFormat/nnUNet_raw_data_base/nnUNet_raw_data/Task000_STC/labelsTs"
-PRED_MASK_DIR  = "nnUnetDataFormat/predictions_fold1"
+PRED_MASK_DIR  = "nnUnetDataFormat/predictions"
 
 # === Color palette (class 0 to 4) ===
 REFERENCE_COLORS = np.array([
